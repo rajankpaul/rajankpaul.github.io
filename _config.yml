@@ -1,5 +1,5 @@
 # Permalinks
-permalink:           pretty
+permalink:           /:categories/:year/:month/:day/:title
 
 # Setup
 title:               rajankpaul
