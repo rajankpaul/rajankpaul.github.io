@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Site
+title: Website Reboot
 ---
 
 I spent some time figuring out how to organize my online presence. The result is:  
