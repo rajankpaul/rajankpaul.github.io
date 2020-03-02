@@ -7,7 +7,7 @@ tagline:             'undergraduate electrical engineering student at USC'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://rajankpaul.com
 baseurl:             ""
-paginate:            1
+paginate:            3
 
 # About/contact
 author:
