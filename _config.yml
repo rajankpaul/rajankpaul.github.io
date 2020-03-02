@@ -1,12 +1,12 @@
 # Permalinks
-permalink:           :year/:month/:day/:title/
+permalink:           pretty
 
 # Setup
 title:               rajankpaul
 tagline:             'undergraduate electrical engineering student at USC'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 
-baseurl:             "https://rajankpaul.com"
+baseurl:             https://rajankpaul.com
 paginate:            1
 
 # About/contact
