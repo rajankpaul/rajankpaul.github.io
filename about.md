@@ -8,10 +8,10 @@ title: About
 ✌️Fight on!✌️
 </p>
 
-[GitHub](https://github.com/rajankpaul)
-[LinkedIn](https://linkedin.com/rajankpaul)
-[Twitter](https://twitter.com/rajankpaul)
-[Twitch](https://twitter.com/rajankpaul)
+[GitHub](https://github.com/rajankpaul)<br/>
+[LinkedIn](https://linkedin.com/rajankpaul)<br/>
+[Twitter](https://twitter.com/rajankpaul)<br/>
+[Twitch](https://twitter.com/rajankpaul)<br/>
 [Instagram](https://linkedin.com/rajankpaul)
 
 Thanks for reading!
