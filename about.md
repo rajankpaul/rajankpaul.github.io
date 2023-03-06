@@ -11,7 +11,5 @@ title: About
 [GitHub](https://github.com/rajankpaul)<br/>
 [LinkedIn](https://linkedin.com/rajankpaul)<br/>
 [Twitter](https://twitter.com/rajankpaul)<br/>
-[Twitch](https://twitter.com/rajankpaul)<br/>
-[Instagram](https://linkedin.com/rajankpaul)
 
 Thanks for reading!
