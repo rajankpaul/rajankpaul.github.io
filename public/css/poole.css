@@ -328,53 +328,74 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
-.page,
-.post {
-  margin-bottom: 4em;
+.post,
+.page {
+  margin-bottom: 4rem;
 }
 
-/* Blog post or page title */
-.page-title,
+/* Post and page title */
 .post-title,
-.post-title a {
-  color: #303030;
-}
-.page-title,
-.post-title {
+.page-title {
   margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
 }
 
-/* Meta data line below post title */
-.post-date {
-  display: block;
-  margin-top: -.5rem;
+.post-title a,
+.page-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Post and page meta data */
+.post-meta,
+.page-meta {
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.post-meta time,
+.page-meta time {
+  display: inline-block;
+  margin-right: 1rem;
 }
 
 /* Related posts */
 .related {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
 }
-.related-posts {
+
+.related h2 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.related ul {
   padding-left: 0;
   list-style: none;
 }
-.related-posts h3 {
-  margin-top: 0;
+
+.related li {
+  margin-bottom: 1rem;
 }
-.related-posts li small {
-  font-size: 75%;
-  color: #999;
-}
-.related-posts li a:hover {
+
+.related li a {
   color: #268bd2;
   text-decoration: none;
 }
-.related-posts li a:hover small {
-  color: inherit;
+
+.related li a:hover {
+  text-decoration: underline;
 }
 
 
